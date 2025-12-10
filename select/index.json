@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Empty",
+  "base_artist": "Carz",
+  "createdAt": "2025-12-10T07:57:51.883011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empty Sky",
+      "artist": "DESERT STAR",
+      "has_synced": true,
+      "path": "select/01_Empty_Sky_DESERT_STAR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Empty",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Empty_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empty",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Empty_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "An Empty Glass",
+      "artist": "Gary Stewart",
+      "has_synced": false,
+      "path": "select/04_An_Empty_Glass_Gary_Stewart.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Empty Arms",
+      "artist": "Sonny James",
+      "has_synced": false,
+      "path": "select/05_Empty_Arms_Sonny_James.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If the Devil Danced (In Empty Pockets)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/06_If_the_Devil_Danced_(In_Empty_Pockets)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If The Devil Danced (In Empty Pockets) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/07_If_The_Devil_Danced_(In_Empty_Pockets)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If the Devil Danced (In Empty Pockets)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/08_If_the_Devil_Danced_(In_Empty_Pockets)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Empty Spaces",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/09_Empty_Spaces_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Empty Gardens",
+      "artist": "Eidola",
+      "has_synced": true,
+      "path": "select/10_Empty_Gardens_Eidola.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Greenfield Morning I Pushed an Empty Baby Carriage All Over the City",
+      "artist": "Yoko Ono",
+      "has_synced": false,
+      "path": "select/11_Greenfield_Morning_I_Pushed_an_Empty_Baby_Carriage_All_Over_the_City_Yoko_Ono.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Alone In An Empty House",
+      "artist": "Lost In the Trees",
+      "has_synced": false,
+      "path": "select/12_All_Alone_In_An_Empty_House_Lost_In_the_Trees.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Empty Streets",
+      "artist": "Late Night Alumni",
+      "has_synced": true,
+      "path": "select/13_Empty_Streets_Late_Night_Alumni.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Telephone Is Empty",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/14_The_Telephone_Is_Empty_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The the Empty",
+      "artist": "Le Tigre",
+      "has_synced": false,
+      "path": "select/15_The_the_Empty_Le_Tigre.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The The Empty (BBC Evening Session)",
+      "artist": "Le Tigre",
+      "has_synced": true,
+      "path": "select/16_The_The_Empty_(BBC_Evening_Session)_Le_Tigre.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Empty",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/17_Empty_Metric.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Empty",
+      "artist": "Carz",
+      "has_synced": false,
+      "path": "select/pl_01_Empty_Carz.txt"
+    }
+  ]
+}
